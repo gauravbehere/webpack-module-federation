@@ -64,3 +64,6 @@ const Greet = lazy(() => import("remote/Greet"));
 
 # Troubleshooting
 https://webpack.js.org/concepts/module-federation/#troubleshooting
+
+# Read more
+https://webpack.js.org/concepts/module-federation/
