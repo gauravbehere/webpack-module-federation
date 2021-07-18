@@ -2,7 +2,7 @@
 A sample app to demonstrate webpack's module federation capabilities.
 <hr/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/536918/126046401-6fbb7e64-0e5f-40aa-8cf7-a0bba511c3d4.png" height="400" width="800">
+  <img src="https://user-images.githubusercontent.com/536918/126046401-6fbb7e64-0e5f-40aa-8cf7-a0bba511c3d4.png" height="auto" width="auto">
 </p>
 <hr/>
 
