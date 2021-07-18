@@ -69,5 +69,5 @@ https://webpack.js.org/concepts/module-federation/#troubleshooting
 https://webpack.js.org/concepts/module-federation/
 
 # Availability
-Availbale with webpack 5.
+Available with webpack 5.
 Invented by https://github.com/ScriptedAlchemy
