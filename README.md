@@ -6,9 +6,13 @@ A sample app to demonstrate webpack's module federation capabilities.
 </p>
 <hr/>
 
+# Blog
+https://gaurav-techgeek.medium.com/micro-frontends-just-got-better-with-module-federation-b062dba9647b
+
+
 # Remote App
 
-A basic react app that exposes a compoenent called "Greet", that just prints hello to the name passed as prop.
+A basic react app that exposes a component called "Greet", that just prints hello to the name passed as prop.
 
 # Host App
 A react app that imports Greet component from the remote app through webpack's module federation & renders it with a name.
